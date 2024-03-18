@@ -1,0 +1,12 @@
+{
+	"name": "OCIZabbixAutoUnReg",
+	"version": "1.0.0",
+	"description": "This function get the host name for the termination event, and remove the host from Zabbix",
+	"main": "func.js",
+	"author": "",
+	"license": "Apache-2.0",
+	"dependencies": {
+		"@fnproject/fdk": ">=0.0.63",
+		"axios": "^1.6.7"
+	}
+}
