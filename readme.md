@@ -7,6 +7,6 @@ Basic Steps to use:(WIP)
 
 1. Update the code with: Zabbix Host name , Zabbix UserName ,Zabbix Password
 2. Install the function in OCI(follow the quick start steps and replace without creating then new function)
-3. Connect the event termination BEGIN event to the function using the event service.
+3. Connect the event "termination BEGIN" to the function using the event service.
 
 Work still in progress.
